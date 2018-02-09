@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Brian Vanko]]></title><description><![CDATA[Blog by Brian Vanko]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Fri, 09 Feb 2018 02:43:42 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Here's what I've been reading today...]]></description><link>https://lumen.netlify.com//posts/things-i-like/</link><guid isPermaLink="false">https://lumen.netlify.com//posts/things-i-like/</guid><pubDate>Thu, 08 Feb 2018 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;React / Redux&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com/@kitze/configure-create-react-app-without-ejecting-d8450e96196a&quot;&gt;Customize CRA react-scripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/how-to-configure-create-react-app/&quot;&gt;Customize CRA react-scripts with Auth0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://serverless-stack.com/&quot;&gt;Create a Fullstack Serverless React App on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>

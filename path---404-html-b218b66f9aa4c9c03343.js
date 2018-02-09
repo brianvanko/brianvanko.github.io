@@ -1,0 +1,2 @@
+webpackJsonp([0xa2868bfb69fc],{345:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Blog by Brian Vanko",subtitle:"Byte-sized codestuffs",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"}],author:{name:"Brian Vanko",email:"#",telegram:"#",twitter:"#",github:"#",rss:"#",vk:"#"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---404-html-b218b66f9aa4c9c03343.js.map
